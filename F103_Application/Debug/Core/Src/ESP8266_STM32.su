@@ -1,0 +1,14 @@
+../Core/Src/ESP8266_STM32.c:71:10:ESP_DMA_GetWritePos	4	static
+../Core/Src/ESP8266_STM32.c:76:6:ESP_DMA_Flush	8	static
+../Core/Src/ESP8266_STM32.c:83:16:ESP_Init	8	static
+../Core/Src/ESP8266_STM32.c:102:16:ESP_SendCommand	40	static
+../Core/Src/ESP8266_STM32.c:142:23:ESP_GetIP	40	static
+../Core/Src/ESP8266_STM32.c:201:16:ESP_ConnectWiFi	160	static
+../Core/Src/ESP8266_STM32.c:218:13:erase_ota_flash	8	static
+../Core/Src/ESP8266_STM32.c:223:16:ota_write	552	static
+../Core/Src/ESP8266_STM32.c:273:13:ota_process_rx	48	static
+../Core/Src/ESP8266_STM32.c:481:5:ota_pull_data	24	static
+../Core/Src/ESP8266_STM32.c:510:6:ESP8266_OTA_Task	16	static
+../Core/Src/ESP8266_STM32.c:535:6:ota_start	192	static
+../Core/Src/ESP8266_STM32.c:602:13:ota_finalize	8	static
+../Core/Src/ESP8266_STM32.c:612:13:ota_error	8	static

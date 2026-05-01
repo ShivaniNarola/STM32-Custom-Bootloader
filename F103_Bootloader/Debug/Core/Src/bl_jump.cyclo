@@ -1,0 +1,2 @@
+../Core/Src/bl_jump.c:17:6:JumpToApplication	1
+../Core/Src/bl_jump.c:46:5:bootloader_is_app_valid	6
