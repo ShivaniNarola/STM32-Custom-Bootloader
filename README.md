@@ -1,4 +1,3 @@
-# STM32-Custom-Bootloader
 # STM32 Wireless OTA Firmware Update
 
 A complete wireless Over-The-Air (OTA) firmware update system for the **STM32F103C8** microcontroller. The device connects to a WiFi network via the **ESP8266** module, downloads a firmware binary from a TCP server, stores it in **W25Q external SPI flash**, and automatically applies the update through a custom bootloader — no physical access or wired connection required after initial programming.
