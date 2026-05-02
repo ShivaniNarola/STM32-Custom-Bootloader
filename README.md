@@ -15,7 +15,6 @@ A complete wireless Over-The-Air (OTA) firmware update system for the **STM32F10
 - [Configuration](#configuration)
 - [Getting Started](#getting-started)
 - [Verification](#verification)
-- [License](#license)
 
 ---
 
